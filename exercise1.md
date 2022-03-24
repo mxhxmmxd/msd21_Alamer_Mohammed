@@ -1,5 +1,5 @@
 # This is an Image
-![alt text](cryptography.jpg "Logo Title Text 1")
+![an image](cryptography.jpg "Logo Title Text 1")
 
 ## this is a paragraph of Link
 - [I'm the first exercise of this lecture](Read_me.md)
