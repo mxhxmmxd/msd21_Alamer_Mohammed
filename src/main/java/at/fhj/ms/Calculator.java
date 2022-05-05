@@ -27,6 +27,6 @@ public class Calculator {
             result = i * result;
 
         }
-        return 0;
+        return result;
     }
 }

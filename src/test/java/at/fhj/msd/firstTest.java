@@ -68,4 +68,7 @@ public class firstTest {
         Assertions.assertEquals(result, calculator.faculty(5));
     }
 
+    public void facultyTest1(){
+        Assertions.assertEquals(5*4*3*2*1, calculator.faculty(5));
+    }
 }
