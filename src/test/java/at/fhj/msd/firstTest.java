@@ -62,5 +62,10 @@ public class firstTest {
         Assertions.assertEquals(result, calculator.divide(10,5));
     }
 
+    @Test
+    public void facultyTest(){
+        double result = 120;
+        Assertions.assertEquals(result, calculator.faculty(5));
+    }
 
 }

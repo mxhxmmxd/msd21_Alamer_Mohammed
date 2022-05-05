@@ -15,3 +15,11 @@ The methods that we are testing belong to the class Calulator:
 ## the test coverage
 
 ![an image](Screenshots/ex4_1.png "TestCoverage")
+
+
+## a failed case
+
+![an image](Screenshots/ex4_2.png "TestCoverage")
+
+
+
