@@ -17,7 +17,7 @@ user email
 
 **Beispiel:**
 
-![an image](git_log.jpg "Logo Title Text 1")
+![an image](Screenshots/git_log.jpg "Logo Title Text 1")
 
 
 - `git diff` displays differences between commits
