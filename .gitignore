@@ -1,12 +1,4 @@
 *.pdf
 *.html
-<<<<<<< HEAD
-.idea/
-target/
-*.log
-=======
 *./idea
-*./target
-*.log
-log4j2.xml
->>>>>>> logging
+*/target
