@@ -29,6 +29,13 @@ by giving the program arguments, that you want to operate with.
 
 [exercise4.md](exercise4.md)
 
+[exercise5.md](exercise5.md)
+
 [gitHub](https://github.com/mxhxmmxd)
 
 [Fh-Joanneum](https://www.fh-joanneum.at/)
+
+----
+#### templates
+
+- [log4j2.xml](src/main/resources/log4j2.xml.template)
