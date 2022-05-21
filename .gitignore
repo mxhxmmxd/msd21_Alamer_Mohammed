@@ -1,4 +1,6 @@
 *.pdf
 *.html
-*./idea
-*/target
+.idea/
+target/
+*.log
+
